@@ -13,15 +13,4 @@ def second_challenge
       :heroine_friends => []
    }
 }
-  
-enddef second_challenge
-  epic_tragedy = {
-    :montague => {
-      #your key/value pairs here!
-      }, 
-    :capulet => {
-      #your key/value pairs here!
-      }}
-
-  
 end
